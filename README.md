@@ -1,7 +1,7 @@
-# PracticalPythonAndOpenCV_CaseStudies
+# PracticalPythonAndOpenCV
 
 ## Description
-Edited code examples from the book 'Practical Python and OpenCV - Case Studies (3rd Edition)' by Adrian Rosebrock.
+I searched 'how to learn CV for a new hand' on the internet and found this book.official book need to pay 90$,but I found the free version.it is really a friendly book for new 
 
 ## Table of Contents
 1. Introduction
