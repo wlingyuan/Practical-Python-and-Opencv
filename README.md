@@ -1,7 +1,7 @@
 # PracticalPythonAndOpenCV
 
 ## Description
-I searched 'how to learn CV for a new hand' on the internet and found this book.official book need to pay 90$,but I found the free version.it is really a friendly book for new.the code may have some opencv version problems.
+I searched 'how to learn CV for a new hand' on the internet and found this book.official book need to pay 90$,but I found the free version.it is really a friendly book for new.the code may have some opencv version problems.you may change the version of the opencv to run the code
 
 ## Table of Contents
 1. Introduction
